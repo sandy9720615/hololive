@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* CSS Document */
+#open{
+	height: 980px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 980px;
+	background-attachment: fixed;
+	display: compact;
+	padding-top: 248px;
+	width: 100%;
+}
+#top{
+	width: 100%;
+	height: 74px;
+	position: fixed;
+	color: #FFFFFF;
+	background-color: #27C7FF;
+	
+}
+#menu{
+	width: 375px;
+	height: 500px;
+	position: fixed;
+	top: 15%;
+	font-size: 48px;
+	display: inline-table;
+	transition: 1s;
+	left: -300px;
+}
+#menu:hover{
+	left: 25px;
+	transition: 1s;
+}
+#nav{
+	width: 300px;
+	height: 500px;
+	background: #FFFFFF;
+	border-radius: 30px;
+	padding-top: 5px;
+	display: inline-table;
+}
+#font{
+	width: 50px;
+	height: 150px;
+	display: inline-table;
+	position: relative;
+	top: 100px;
+	left: 25px;
+	text-shadow: 0px 0px 15px #FFFFFF,0px 0px 15px #FFFFFF;
+}
+.nav{
+	background:#fff;
+	height: 30%;
+	border-radius: 30px;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font-size: 24px;
+	line-height: 200px;
+	text-align: center;
+	transition: 0.5s;
+}
+.nav:hover{
+	background: #D8D8D8;
+	color: #418BFF;
+	transition: 0.5s;
+	-webkit-box-shadow: 0px 0px 10px 5px #EBEBEB;
+	box-shadow: 0px 0px 10px 5px #EBEBEB;
+}
+.cntname{
+	height: 200px;
+	text-align: center;
+	font-size: 48px;
+	font-family: "華康唐風隸";
+	background-color: #5edceb;
+	line-height: 200px;
+	color: #fff;
+	width: 100%;
+}
+.cnt{
+	background-color: #000000;
+	padding: 200px;
+	color: #fff;
+}
+#cnt01{
+	padding-top: 556px;
+	padding-left: 278px;
+	background-image: url(../images/c7465cb72b26448a118e366396fbe61f1a9e5f93.jpg);
+	font-size: 38px;
+	color: #FFFFFF;
+	width: 100%;
+	height: 1000px;
+	display: inline-table;
+	background-size: cover;
+	text-shadow: 0px 0px 3px #000000;
+}
+#cntn{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	font-size: 48px;
+	font-family: "華康唐風隸";
+	background-color: #5edceb;
+	line-height: 200px;
+	color: #fff;
+}
+#cnt02{
+	font-size: 58px;
+	background-image: url(../images/8f3JQIs.jpg);
+	color: #000;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 1000px;
+	width: 100%;
+}
+#cnt03{
+	background-image: url(../images/Hololive.full.2644124.jpg);
+	padding-top: 526px;
+	padding-right: 379px;
+	padding-left: 379px;
+	padding-bottom: 379px;
+	color: #fff;
+	background-size: cover;
+	height: 1000px;
+	text-align: right;
+	font-size: 48px;
+	width: 100%;
+	background-repeat: no-repeat;
+	text-shadow: 0px 0px 15px #000000;
+}
+#cnt04{
+	font-size: 58px;
+	background-image: url(../images/20210820024350848.jpg);
+	color: #000;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	height: 1000px;
+	width: 100%;
+	background-position: 0% top;
+}
+#cnt05{
+	padding-top: 623px;
+	padding-left: 200px;
+	background-image: url(../images/05FLcb4.jpg);
+	font-size: 38px;
+	color: #FFFFFF;
+	width: 100%;
+	height: 1000px;
+	display: inline-table;
+	background-size: cover;
+	text-shadow: 0px 0px 27px #000000;
+	background-position: 10% 0%;
+}
+#cnt06{
+	font-size: 58px;
+	background-image: url(../images/fwltwjbc2uh51.jpg);
+	color: #000;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 1000px;
+	width: 100%;
+}
+#footer{
+	background-color: #4f9fef;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	height: 150px;
+	padding: 50px;
+}
